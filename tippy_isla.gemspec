@@ -7,7 +7,6 @@ Gem::Specification.new do |spec|
   spec.email         = ["ihoe@zendesk.com"]
 
   spec.summary       = %q{A gem for generating tip values}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
   spec.homepage      = "https://github.com/IslaHoe/tippy_isla"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
