@@ -1,6 +1,5 @@
 require "tippy_isla/version"
+require "tippy_isla/builder"
 
 module TippyIsla
-  class Error < StandardError; end
-  # Your code goes here...
 end
